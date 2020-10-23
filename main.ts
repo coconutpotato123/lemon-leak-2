@@ -1,7 +1,7 @@
 scene.setBackgroundColor(7)
 let playerImg = sprites.duck.duck2
 let projectileImg1 = sprites.food.smallDrumstick
-let projectileImg2 = sprites.food.bigHam
+let projectileImg2 = sprites.food.smallDonut
 let item_Image = sprites.food.smallIceCream
 
 // Create ducky sprite
